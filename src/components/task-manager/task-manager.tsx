@@ -82,12 +82,7 @@ export default function TaskManager() {
               Uncheck All Tasks
             </Button>
 
-            <Button
-              onClick={sortTasks}
-              className="sm:col-span-2 bg-blue-500 hover:bg-blue-600"
-            >
-              Sort Tasks
-            </Button>
+
           </div>
         </div>
 
