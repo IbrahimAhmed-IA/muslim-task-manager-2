@@ -42,13 +42,8 @@ export default function TaskManager() {
 
   return (
     <div className="task-manager w-full">
-      {/* Header */}
-      <header className="py-6 bg-gradient text-white text-center">
-        <h1 className="text-3xl font-bold">Muslim Task Manager</h1>
-      </header>
-
       {/* Content */}
-      <div className="container mx-auto p-4">
+      <div>
         {/* Progress Overview */}
         <div className="bg-white rounded-md shadow-sm p-4 mb-6">
           <div className="flex flex-col sm:flex-row items-center justify-between mb-4">
