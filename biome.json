@@ -5,7 +5,7 @@
     "clientKind": "git",
     "useIgnoreFile": false
   },
-  "files": {
+  "files":{
     "ignoreUnknown": false,
     "ignore": ["dist", ".next", "node_modules", "build"],
     "include": ["src/**/*.ts", "src/**/*.tsx"]
